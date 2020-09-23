@@ -13,15 +13,9 @@ h1 {
 	margin: 10px;
 }
 
-/*.row{
-	margin: -10px;
-	padding: 10px;
-	position: relative;
-}*/
 
 .title {
 	border: black solid 3px;
-	/*float: right;*/
 	position: absolute;
 	right: 10px;
 	top: 0px;
@@ -35,16 +29,12 @@ h1 {
 }
 
 section {
-	/*background: gray;*/
 	position: relative;
-	/*margin: -20px 0px 0px 0px;*/
 	padding: -10px 10px 10px 10px;
-	/*border: black solid 3px;*/
 }
 
 p {
 	margin: 0px 10px 10px;
-	/*margin-bottom: ;*/
 	border: black solid 3px;
 	padding: 45px 10px 10px 10px;
 	background: gray;
@@ -84,7 +74,6 @@ p {
 
 @media (max-width: 787px) {
 	.col-sm {
-		/*float: left;*/
 		width: 100%;
 	}
 }
